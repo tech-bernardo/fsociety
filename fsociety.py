@@ -1,4 +1,4 @@
-#!/usr/bin/env python2
+
 #    ______              _      _           _______
 #   |  ____|            (_)    | |         |__   __|
 #   | |__ ___  ___   ___ _  ___| |_ _   _     | | ___  __ _ _ __ ___
@@ -9,11 +9,7 @@
 #                                   |___/
 #
 #
-#                                Greet's To
-#                              IcoDz - Canejo
-#                             Tool For Hacking
-#                             Author : Manisso
-
+#                   
 '''
 Imports
 '''
